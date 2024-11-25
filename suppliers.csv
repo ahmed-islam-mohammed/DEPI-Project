@@ -1,0 +1,51 @@
+supplier_id,supplier_name,contact_name,phone,email,street,city,state,zip_code
+1,Owens and Sons,Barbara Bowen,+1-540-669-9582,alice72@example.com,08147 Woods Plains,Elizabethfort,Idaho,92267
+2,Ritter PLC,Veronica Lindsey,+1-630-872-7448,sharon49@example.net,1710 Jimenez Port Apt. 521,Manuelport,West Virginia,28230
+3,Larsen-Griffin,Kendra Gould MD,+1-248-572-0067,pattersonrita@example.net,7180 Travis Ferry Apt. 869,Martinezborough,Louisiana,47484
+4,West PLC,Catherine Prince,+1-835-539-9093,fpatterson@example.com,3031 Freeman Mountains Suite 187,Lake Jonathan,West Virginia,85717
+5, Farmer and Thompson,Taylor Clark,+1-952-392-8388,dswanson@example.org,580 Hammond Villages,Kathleenland,Massachusetts,11007
+6,Johnson-Arnold,Ronald White,+1-730-753-7725,qmartin@example.org,5394 Hubbard Expressway Apt. 651,Melissaview,Connecticut,15861
+7,Brady LLC,Lisa Brown,+1-496-923-9436,mtaylor@example.net,54774 Mckenzie Ferry,South Victorborough,Oregon,83240
+8,Rodriguez-Burns,Richard Armstrong,+1-263-311-0463,tonymorris@example.net,4869 Mccann Brook Suite 124,Hendersonfurt,North Carolina,63748
+9,Brown Inc,Nicholas Cook,+1-821-604-8708,wellskaren@example.org,558 Lisa View,Davidville,Nebraska,62398
+10, Chandler and Gray,John Rodriguez,+1-879-534-2495,dleblanc@example.net,412 Gonzalez Mountain,South Markshire,West Virginia,81908
+11,Smith Inc,Chad Thomas,+1-427-383-0056,hernandezlaura@example.com,355 Kevin Plains Apt. 612,Georgemouth,Montana,39680
+12,Floyd and Sons,Chelsea Hickman,+1-256-464-7764,martinkyle@example.org,6761 Joseph Mount Suite 240,Johnberg,Texas,55082
+13,Hendrix-Lowe,Mallory Molina,+1-405-841-4239,croman@example.org,8421 Brown Stravenue,East Markmouth,Wisconsin,95769
+14,Tran-Mayer,Casey Daniels,+1-344-746-5794,whitestacey@example.org,73423 Anderson Curve,North Richardton,Michigan,63748
+15,Ortega LLC,Gregory Crawford,+1-632-852-7287,adamnewman@example.com,80420 Bates Vista,Lake John,Oregon,99695
+16, Christian and Duncan,Eric Brown,+1-713-634-9816,lauren41@example.org,03768 Jones Mall,Spencerville,Texas,85166
+17,Thompson-Lopez,Donald Price,+1-996-486-8224,johnshaffer@example.net,446 May Stravenue Suite 126,North Carolborough,Illinois,91222
+18,Williams LLC,Timothy Avery,+1-626-986-9990,daniel14@example.com,77233 Deanna Valleys Suite 688,Victoriaton,Mississippi,48738
+19,Eaton and Sons,Robyn Allen,+1-360-784-3480,williammcbride@example.com,45719 Perez Motorway Apt. 043,New Deanna,Missouri,91288
+20, Franklin and Morales,Alyssa Cervantes,+1-796-373-9953,albertcrane@example.net,818 Michael Stravenue,Brianborough,Oregon,99051
+21,Nixon-Perry,Chad Allen,+1-435-454-4222,pamelaoneal@example.org,5078 Kristine Run,Lisafort,Illinois,99729
+22,Neal PLC,Lori Hunter MD,+1-360-937-4639,steven26@example.com,4506 Kelsey Drives,New Jenniferbury,Utah,29027
+23, Anderson and Garcia,Isaac Olsen,+1-406-472-9222,isaachardin@example.net,629 Jonathan Prairie,Loganstad,Maryland,56663
+24,Hanson-Guerrero,Diane Houston,+1-549-661-6252,singletontiffany@example.net,21164 Lee Meadows,Prestonmouth,Florida,39983
+25,Schneider-Owens,David Schmidt,+1-229-311-9793,jennifercortez@example.net,7616 Lucero Vista Suite 734,Port Michael,Indiana,86407
+26,Ross and Sons,Rebecca Martin,+1-938-888-7969,morrismelissa@example.org,671 Kristina Drive,Harrisside,Delaware,94476
+27,Bailey-Hayes,Brenda Ritter,+1-425-235-4051,kleinjeffrey@example.net,677 Rhonda Throughway Suite 521,Christopherborough,Maryland,83109
+28,Dawson Group,Ryan Taylor,+1-973-221-1996,ymitchell@example.net,865 Matthew Ferry Apt. 072,New Jeffrey,Idaho,37985
+29,Liu-Reeves,Brenda Moore,+1-394-807-4864,harperpatrick@example.com,4417 Hector Loop Apt. 185,Rodneyview,Kansas,26771
+30,Lee Inc,Wendy Scott,+1-468-918-3059,ortizbrittany@example.net,53038 Williams Flat Apt. 151,New Michaelland,New Mexico,73061
+31,Sanford Inc,Denise Hayes,+1-896-843-4189,floresellen@example.net,03090 Julie Vista Suite 845,Pricemouth,Missouri,11008
+32,Davis and Sons,Betty Wallace,+1-802-516-9559,lauragregory@example.org,853 Valerie Path Suite 575,North Joshuastad,Michigan,39779
+33, Perez and Villarreal,Nicholas Smith,+1-935-269-3036,stephanieschmidt@example.com,221 Kimberly Mews,Jonathonside,Missouri,26216
+34,Miles Ltd,Scott Vasquez,+1-641-829-7599,hvaldez@example.com,63472 Andrew Fords,North Vanessa,Mississippi,59236
+35,Stark-Salinas,Alexander Schneider,+1-597-496-3913,michelle98@example.org,043 Christopher Motorway,East Kristenmouth,New Mexico,64196
+36, Koch and Martinez,Christina Lopez,+1-399-405-5180,jonathan12@example.net,82143 Lance Springs Apt. 751,West Mitchell,Alabama,73925
+37, Camacho and Austin,Jordan Holland,+1-738-609-3431,eduardo27@example.com,8728 Rebecca Parks Apt. 442,Lake Patrickville,Maine,15541
+38,Hubbard-Chang,Cristina Sweeney,+1-966-504-4301,ashley57@example.org,3614 Gilmore Coves Suite 804,Sullivanville,Nebraska,23854
+39, Gonzalez and Williams,James Stein,+1-295-945-4046,briggstravis@example.com,58270 Stephanie Mission Suite 616,Wagnerfurt,North Carolina,15862
+40,Bryant LLC,Marcia James,+1-264-647-3577,leshannon@example.org,832 Sanchez Road,Andersonborough,Michigan,72168
+41, Sanford and Lucas,Laurie Green,+1-864-652-4581,jaywood@example.net,27849 Russell Freeway,New Victoria,Oklahoma,43315
+42,Smith Ltd,Julie Wright,+1-395-503-9142,michaelcollins@example.org,59348 Pamela Canyon Apt. 157,South Amandaburgh,Washington,94751
+43,Hester-Best,Rodney Brown,+1-448-953-5096,arnoldsydney@example.com,9863 David Springs,Port Paulburgh,Oregon,74502
+44,Rivera-Alexander,Steven King,+1-461-307-3552,edwardschristopher@example.net,168 Bradley Knolls,North Keith,Michigan,26369
+45, Velazquez and Jones,Sandra Sullivan DDS,+1-960-854-5222,peggy35@example.net,755 Brian Street,West Jenniferborough,Oklahoma,61498
+46, Harris and Payne,Margaret Phillips,+1-787-695-9320,lancegreene@example.com,94924 Lambert Village,Elizabethmouth,Iowa,41584
+47,Harvey and Sons,Joseph Robertson,+1-738-441-5480,erinmoore@example.org,57151 Joseph Estates Suite 492,Moralesport,Georgia,87076
+48, Walker and Chambers,Angel Hanson,+1-914-951-7363,lauraconner@example.org,48264 Fowler Port,South David,Vermont,16406
+49,Mclean Ltd,Gabrielle Brown,+1-838-482-0398,garygentry@example.org,76386 Mcguire Ranch,Christinaborough,Colorado,72261
+50,Keller-Baxter,Jamie Meyers,+1-954-992-3513,carlosnash@example.net,30050 Jeffery Extension,North Brendashire,North Dakota,31753
